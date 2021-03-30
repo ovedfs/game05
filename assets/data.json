@@ -1,0 +1,187 @@
+[
+  {
+    "title": "reto", 
+    "message": "Brinca en un solo pie 10 veces", 
+    "points": 2
+  },
+  {
+    "title": "reto", 
+    "message": "Muestra ante la cámara una cuchara", 
+    "points": 2
+  },
+  {
+    "title": "reto", 
+    "message": "Realiza 10 sentadillas", 
+    "points": 5
+  },
+  {
+    "title": "reto", 
+    "message": "Dibuja un barco en 30 segundos", 
+    "points": 4
+  },
+  {
+    "title": "reto", 
+    "message": "Dibuja un gato en 30 segundos", 
+    "points": 4
+  },
+  {
+    "title": "reto", 
+    "message": "Dibuja una flor en 30 segundos", 
+    "points": 4
+  },
+  {
+    "title": "reto", 
+    "message": "Menciona 10 palabras que inicien con la letra s", 
+    "points": 5
+  },
+  {
+    "title": "reto", 
+    "message": "Da 5 vueltas en tu lugar", 
+    "points": 3
+  },
+  {
+    "title": "reto", 
+    "message": "Menciona el nombre de 5 animales que vivan en la selva", 
+    "points": 5
+  },
+  {
+    "title": "reto", 
+    "message": "Responde correctamente,<br> ¿Cuánto es 5x5?", 
+    "points": 3
+  },
+  {
+    "title": "reto", 
+    "message": "Responde correctamente,<br> ¿Cuánto es 2+3+5+6+4+10?", 
+    "points": 5
+  },
+  {
+    "title": "reto", 
+    "message": "Menciona el nombre de 5 países o ciudades", 
+    "points": 5
+  },
+  {
+    "title": "reto", 
+    "message": "Menciona el nombre de todos los miembros del grupo", 
+    "points": 3
+  },
+  {
+    "title": "reto", 
+    "message": "Muestra ante la cámara una fruta", 
+    "points": 4
+  },
+  {
+    "title": "reto", 
+    "message": "Muestra ante la cámara una prenda de color azul", 
+    "points": 4
+  },
+  {
+    "title": "reto", 
+    "message": "Muestra ante la cámara una bolsa o mochila", 
+    "points": 4
+  },
+  {
+    "title": "reto", 
+    "message": "Cuenta un chiste", 
+    "points": 5
+  },
+  {
+    "title": "reto", 
+    "message": "Inventa un cuento en donde aparezcan:<br> un barco, una hormiga, y mucho chocolate", 
+    "points": 6
+  },
+  {
+    "title": "reto", 
+    "message": "Inventa un cuento en donde aparezcan:<br> un zapato, un tigre, y una pizza", 
+    "points": 6
+  },
+  {
+    "title": "castigo", 
+    "message": "¡Lo siento!, todos perdimos", 
+    "points": 5
+  },
+  {
+    "title": "castigo", 
+    "message": "¡Lo siento!, todos perdimos", 
+    "points": 3
+  },
+  {
+    "title": "castigo", 
+    "message": "¡Lo siento!, todos perdimos", 
+    "points": 2
+  },
+  {
+    "title": "castigo", 
+    "message": "¡Lo siento!, todos perdimos", 
+    "points": 1
+  },
+  {
+    "title": "castigo", 
+    "message": "¡Lo siento!, perdiste", 
+    "points": 1
+  },
+  {
+    "title": "castigo", 
+    "message": "¡Lo siento!, perdiste", 
+    "points": 2
+  },
+  {
+    "title": "castigo", 
+    "message": "¡Lo siento!, perdiste", 
+    "points": 3
+  },
+  {
+    "title": "premio", 
+    "message": "¡Wow!, lograste que todos ganaran", 
+    "points": 5
+  },
+  {
+    "title": "premio", 
+    "message": "¡Wow!, lograste que todos ganaran", 
+    "points": 4
+  },
+  {
+    "title": "premio", 
+    "message": "¡Wow!, lograste que todos ganaran", 
+    "points": 3
+  },
+  {
+    "title": "premio", 
+    "message": "¡Wow!, lograste que todos ganaran", 
+    "points": 2
+  },
+  {
+    "title": "premio", 
+    "message": "¡Wow!, ganaste", 
+    "points": 5
+  },
+  {
+    "title": "premio", 
+    "message": "¡Wow!, ganaste", 
+    "points": 3
+  },
+  {
+    "title": "adivinanza", 
+    "message": "Soy chiquitito puedo nadar, vivo en los ríos y en alta mar, ¿quién soy?", 
+    "points": 3
+  },
+  {
+    "title": "adivinanza", 
+    "message": "Canto en la orilla y vivo en el agua, no soy pescado ni soy cigarrilla, ¿quién soy?", 
+    "points": 4
+  },
+  {
+    "title": "adivinanza", 
+    "message": "Cuando llueve y sale el sol, todos los colores tengo yo, ¿quién soy?", 
+    "points": 2
+  },
+  {
+    "title": "adivinanza", 
+    "message": "Con cuello largo y finito se pasea muy feliz, solo si fueras mosquito le verías la nariz, ¿quién es?", 
+    "points": 4
+  },
+  {
+    "title": "adivinanza", 
+    "message": "Soy pequeñito y blandito y mi casa llevo en el lomito, ¿quién soy?", 
+    "points": 3
+  }
+]
