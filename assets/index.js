@@ -4,7 +4,7 @@ import Modal from './Modal.js';
 import {random} from './helper.js';
 
 let data;
-const totalBalloons = 100;
+const totalBalloons = 50;
 
 const container = new Container({
   el: document.querySelector('.container')
